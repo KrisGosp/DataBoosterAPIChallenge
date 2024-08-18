@@ -1,5 +1,5 @@
 // Replace token and url with the provided ones
-const token = process.env.BEAT_TOKEN;
+const token = process.env.BEARER_TOKEN;
 const url = process.env.API_URL;
 
 // Cursor from first response with just the token
